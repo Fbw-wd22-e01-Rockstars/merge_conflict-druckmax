@@ -1,10 +1,10 @@
- ![banner](img/kitten.jpg)
+ ![banner](./img/berlin.jpg)
 
- # Lorem ipsum sic header
+ # This is a edit by goldtoast
 
-* List
-* of
-* bullet
-* points
+1. List
+2. of
+3. bullet
+4. points
 
-<p> There <span style="color:red">is a bug</span> in this file</p>
+<p> There <span style="color:blue">is a bug</span> in this file</p>

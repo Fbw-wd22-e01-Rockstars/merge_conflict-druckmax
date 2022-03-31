@@ -1,11 +1,11 @@
- ![banner](./img/castle.jpg)
+ ![banner](./img/berlin.jpg)
 
- # New header
+ # This is a edit by goldtoast
 
-* List
-* of
-* bullet
-* points
+1. List
+2. of
+3. bullet
+4. points
 
 <p>There is no bug in this file</p>
 <p>This file was modified by druckmax</p>
